@@ -1,5 +1,3 @@
-# SQL_Libraries
-
 # SQL Library Repository
 
 This repository contains SQL scripts and databases for four distinct applications: Hospital, Library, Student Management, and Online Shop. Each application is represented in separate directories within this repository, and the SQL scripts included are used to create and manage the corresponding databases.
